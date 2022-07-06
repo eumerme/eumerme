@@ -11,7 +11,7 @@
 - ⚗️ Fun fact: I graduated in Chemistry at UFRRJ.
 
 
-### 📫 Contact me!
+### 📫 Contact me
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/euthaislopes/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:euthaisetau@gmail.com)
