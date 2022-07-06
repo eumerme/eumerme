@@ -16,7 +16,7 @@
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/euthaislopes/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:euthaisetau@gmail.com)
 
-<img align="right" width="35%"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ayu-mirage&langs_count=10" alt="My github stats">
+<img align="right" width="35%"  src="https://github-readme-stats.vercel.app/api?username=eumerme&theme=ayu-mirage&langs_count=10" alt="My github stats">
 
 
 ### 👾 Technologies
