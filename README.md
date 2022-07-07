@@ -1,6 +1,6 @@
-### Hey there, nice to see you here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
+<h2 align="center">Hey there, nice to see you here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" </h2>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> I'm Thaís 
+<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> I'm Thaís </h2>
 
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=eumerme&show_icons=true&theme=ayu-mirage" alt="My GitHub Stats" />
      
