@@ -1,9 +1,7 @@
-<h2 align="center">Hey there, nice to see you here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" </h2>
+<h3 align="center">Hey there, nice to see you here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" </h3>
 
 <h2 align="center"> I'm Thaís <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h2>
 
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=eumerme&show_icons=true&theme=ayu-mirage" alt="My GitHub Stats" />
-     
   </br> 
   
 - 💻 I’m currently studying web development technologies at [Driven].
@@ -16,8 +14,6 @@
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/euthaislopes/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:euthaisetau@gmail.com)
 
-<img align="right" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumerme&layout=compact&theme=ayu-mirage&langs_count=10" alt="My github stats">
-
 
 ### 👾 Technologies
 
@@ -26,6 +22,20 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 
+### 📌 Github Stats
+
+<div align="center">
+<table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=eumerme&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumerme&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" />
+      </td>
+    </tr>
+</table>
+</div>
 
 [Driven]: https://www.linkedin.com/school/driven-education;
 
