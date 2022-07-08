@@ -37,7 +37,7 @@
 </table>
 </div>
 
-[Driven]: https://www.linkedin.com/school/driven-education;
+[Driven]: https://www.linkedin.com/school/driven-education
 
 <!-- Theme:
  https://github.com/anuraghazra/github-readme-stats#themes -->
