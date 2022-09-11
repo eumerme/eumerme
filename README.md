@@ -7,7 +7,7 @@
 - 💻 I’m currently studying web development technologies at [Driven].
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I graduated in Chemistry at UFRRJ.
-- ⚛️ I'm currently learning <strong>Nodejs</strong>.
+- ⚛️ I'm currently learning <strong>Nodejs</strong> anda <strong>mongodb</strong>.
 
 
 ### 👾 Technologies
