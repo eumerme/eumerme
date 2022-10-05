@@ -24,7 +24,7 @@
   </a>
 </div>
 
-### 📌 Github Stats
+### 📌 Github stats
 
 <div align="center">
 <table>
