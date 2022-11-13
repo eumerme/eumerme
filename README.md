@@ -7,13 +7,13 @@
 - 💻 I’m currently studying web development technologies at [Driven].
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I love black coffee (with no sugar), science and I have a chemistry degree (UFRRJ).
-- 📚 I'm currently learning <strong>Postgres</strong>.
+- 📚 I'm currently learning <strong>Typescript</strong>.
 
 
 ### ⚡ Main technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb"  width="300px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,postgres"  width="300px" heigth="300px" />
   </a>
 </div>
 
@@ -51,5 +51,5 @@
 
 [Driven]: https://www.linkedin.com/school/driven-education
 
-<!-- Theme:
- https://github.com/anuraghazra/github-readme-stats#themes -->
+<!-- Theme: https://github.com/anuraghazra/github-readme-stats#themes -->
+<!-- Skill Icons: https://github.com/tandpfun/skill-icons -->
