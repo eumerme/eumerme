@@ -7,7 +7,7 @@
 - 💻 I’m currently studying web development technologies at [Driven].
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I love black coffee (with no sugar), science and I have a chemistry degree (UFRRJ).
-- 📚 I'm currently learning <strong>Typescript</strong> and <strong>Prisma</strong>.
+- 📚 I'm currently learning <strong>Typescript</strong>, <strong>Prisma</strong> and <strong>Jest</strong>.
 
 
 ### ⚡ Main technologies
