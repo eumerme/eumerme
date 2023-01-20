@@ -24,23 +24,6 @@
   </a>
 </div>
 
-### 📌 Github stats
-
-<div align="center">
-<table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/?username=eumerme&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
-      </td>
-    </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumerme&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" />
-     </td>
-  </tr>
-</table>
-</div>
-
 
 ### 📫 Contact me
 
