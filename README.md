@@ -13,14 +13,14 @@
 ### ⚡ Main technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,postgres,redis,ts,jest"  width="300px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,postgres,redis,ts,jest"  width="500px" heigth="300px" />
   </a>
 </div>
 
 ### 👾 Other technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,prisma,express,styledcomponents,vscode,git,figma"  width="300px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=html,css,prisma,express,styledcomponents,vscode,git,figma"  width="500px" heigth="300px" />
   </a>
 </div>
 
