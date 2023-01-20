@@ -4,7 +4,7 @@
 
   </br> 
   
-- 💻 I’m currently studying full-stack web development technologies at [Driven].
+- 💻 I’m currently studying full-stack web development at [Driven].
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I love black coffee (with no sugar) and I have a chemistry degree (UFRRJ).
 - 📚 I'm currently learning <strong>Docker</strong> and <strong>AWS</strong>.
