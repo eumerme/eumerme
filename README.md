@@ -4,23 +4,23 @@
 
   </br> 
   
-- 💻 I’m currently studying web development technologies at [Driven].
+- 💻 I’m currently studying full-stack web development technologies at [Driven].
 - 💬 Pronouns: She/her.
-- 🧑‍🔬 Fun fact: I love black coffee (with no sugar), science and I have a chemistry degree (UFRRJ).
-- 📚 I'm currently learning <strong>Typescript</strong>, <strong>Prisma</strong> and <strong>Jest</strong>.
+- 🧑‍🔬 Fun fact: I love black coffee (with no sugar) and I have a chemistry degree (UFRRJ).
+- 📚 I'm currently learning <strong>Docker</strong> and <strong>AWS</strong>.
 
 
 ### ⚡ Main technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,postgres"  width="300px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,postgres,redis,ts,jest"  width="300px" heigth="300px" />
   </a>
 </div>
 
 ### 👾 Other technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,vscode,git,figma,vercel,heroku"  width="300px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=html,css,prisma,express,styledcomponents,vscode,git,figma"  width="300px" heigth="300px" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 ### 📫 Contact me
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/euthaislopes/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thais.nl@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaisnl.dev@gmail.com)
 
 
 
