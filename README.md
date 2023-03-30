@@ -7,20 +7,19 @@
 - 💻 I’m currently studying full-stack web development at [Driven].
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I love black coffee (with no sugar) and I have a chemistry degree (UFRRJ).
-- 📚 I'm currently learning <strong>Docker</strong> and <strong>AWS</strong>.
+- 📚 I'm currently learning <strong>OOP</strong> and <strong>JAVA | Spring Boot</strong>.
 
 
-### ⚡ Main technologies
+### ⚡ Technologies & languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,postgres,redis,ts,jest"  width="500px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,postgres,redis,ts,jest,docker" heigth="300px" />
   </a>
 </div>
 
-### 👾 Other technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,prisma,express,styledcomponents,vscode,git,figma"  width="500px" heigth="300px" />
+    <img src="https://skillicons.dev/icons?i=html,css,prisma,express,styledcomponents,vscode,git,figma" heigth="300px" />
   </a>
 </div>
 
