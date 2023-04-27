@@ -4,7 +4,7 @@
 
   </br> 
   
-- 💻 I’m currently studying full-stack web development at [Driven].
+- 💻 I've studied full-stack web development at [Driven Education](https://www.linkedin.com/school/driven-education).
 - 💬 Pronouns: She/her.
 - 🧑‍🔬 Fun fact: I love black coffee (with no sugar) and I have a chemistry degree (UFRRJ).
 - 📚 I'm currently learning <strong>OOP</strong> and <strong>JAVA | Spring Boot</strong>.
@@ -46,8 +46,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaisnl.dev@gmail.com)
 
 
-
-[Driven]: https://www.linkedin.com/school/driven-education
 
 <!-- Theme: https://github.com/anuraghazra/github-readme-stats#themes -->
 <!-- Skill Icons: https://github.com/tandpfun/skill-icons -->
