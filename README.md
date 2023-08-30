@@ -1,4 +1,8 @@
-<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px" /> Hey there, I'm Thaís! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
+<h1 align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+    Hey there, I'm Thaís!
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" /> 
+</h1>
 
 <h3 align="center">🚀 Full-Stack Web Developer | Tech Enthusiast | Coffee Lover (no sugar, please!) ☕️</h3>
 
