@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=eumerme&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eumerme&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=eumerme&show_icons=true&title_color=7159c1&text_color=7e7e7e&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eumerme&show_icons=true&title_color=7159c1&text_color=7e7e7e&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" alt="Top Languages">
 </div>
 
 <!-- Theme: https://github.com/anuraghazra/github-readme-stats#themes -->
