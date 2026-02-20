@@ -7,7 +7,7 @@ Full-Stack Developer • Financial Systems • Production Troubleshooting • Sa
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/euthaislopes/">
+  <a target="_blank" href="https://www.linkedin.com/in/euthaislopes/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
