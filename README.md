@@ -38,38 +38,19 @@ My work today involves:
 ## 🚀 Main Stack
 
 ### Backend
-- Ruby on Rails  
-- Java (Grails)  
-- Node.js  
-- TypeScript  
-- Python  
+Ruby on Rails • Java (Grails) • Node.js • TypeScript • Python
 
 ### Frontend
-- React
-- AngularJs
-- CoffeeScript
-- Vue
+React • AngularJs • CoffeeScript • Vue
 
 ### Databases & Messaging
-- SQL / NoSQL  
-- Redis  
-- Kafka  
+SQL / NoSQL • Redis • Kafka  
 
 ### Cloud & DevOps
-- AWS (ECS, EC2, S3, RDS, Aurora, IAM, CloudWatch, Route53, Lambda)
-- Docker
-- n8n
-- Git  
-- Terraform (learning)
+AWS (ECS, EC2, S3, RDS, Aurora, IAM, CloudWatch, Route53, Lambda) • Docker • n8n • Git • Terraform (learning)
 
 ### Engineering Practices
-- REST APIs  
-- OpenAPI / Swagger documentation  
-- Automated tests  
-- Code Review  
-- Clean Code  
-- Agile workflows (Scrum/Kanban)
-- Jira
+REST APIs • OpenAPI / Swagger documentation • Automated tests • Code Review • Clean Code • Agile workflows (Scrum/Kanban) • Jira
 
 ---
 
