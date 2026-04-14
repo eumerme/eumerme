@@ -29,7 +29,7 @@ My work today involves:
 - Dependency upgrades focused on stability and security  
 - Multi-client SaaS environments  
 
-🎓 Postgraduate in Software Engineering
+🎓 Postgraduate in Software Engineering  
 🧪 Former Chemistry graduate (yes, career switch 🙂)  
 🌎 Based in Brazil
 
